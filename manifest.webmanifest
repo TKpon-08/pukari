@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "PUKARI（ぷかり）",
+  "short_name": "PUKARI",
+  "description": "気分や体の症状を、自分のペースで記録する体調トラッカー",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6F5F1",
+  "theme_color": "#00B1C3",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/pukari-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
